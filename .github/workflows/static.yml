@@ -42,6 +42,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Merge feeds
         run: python merge.py programming
+      - name: Merge feeds
+        run: python merge.py news
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
