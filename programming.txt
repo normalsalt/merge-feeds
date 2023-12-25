@@ -2,8 +2,5 @@ https://codezine.jp/rss/new/20/index.xml
 https://coliss.com/feed/
 https://gihyo.jp/feed/atom
 https://postd.cc/feed/
-https://qiita.com/popular-items/feed
-https://vim-jp.org/ekiden/rss.xml
 https://www.publickey1.jp/atom.xml
 https://www.webcreatorbox.com/feed
-https://zenn.dev/feed
