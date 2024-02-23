@@ -1,6 +1,7 @@
 https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
 https://gigazine.net/news/rss_2.0/
 https://noratetsu.blogspot.com/feeds/posts/default
+https://note.com/taskchute/m/m80cde2fde6bf/rss
 https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
 https://teineini.net/feed/
 https://ttj.paiza.jp/feed/
